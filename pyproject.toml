@@ -1,5 +1,5 @@
 [project]
-name = "BigGo-MCP-Server"
+name = "iflow-mcp_BigGo-MCP-Server"
 dynamic = ["version"]
 description = "A Model Context Protocol (MCP) server that provides product search, price history tracking, and specification search capabilities."
 readme = "README.md"
